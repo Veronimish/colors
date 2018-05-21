@@ -16,10 +16,6 @@ love.graphics.setColor(0.5, 0.5, 0.5)
 
 This lib expose two colors tables : namedColors and indexedColors. indexedColors is sorted on R, G and B values. Not the best sort type... :wink:
 
-
-
-![](.\images\window.png)
-
-
+![Some screen goes here...](https://github.com/Veronimish/colors/blob/master/images/window.png)
 
 Free to use ! ;)
