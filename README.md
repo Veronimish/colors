@@ -18,7 +18,7 @@ This lib expose two colors tables : namedColors and indexedColors. indexedColors
 
 
 
-![](D:\Developpement\ZeroBrane\myprograms\01 - Tests\colors\images\window.png)
+![](.\images\window.png)
 
 
 
